@@ -1,0 +1,28 @@
+_repo: The-First-regiment-Massachusetts-heavy-artillery-United-States-volunteers-in-the-Spanish-Amer__51510
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Frye, James A. (James Albert)
+    alias: Frye, James Albert
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '44849'
+    url: http://www.gutenberg.org/2009/agents/44849
+description: ''
+gutenberg_issued: '2016-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51510'
+  lccn: '99004399'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E660'
+- !lcsh 'Spanish-American War, 1898 -- Regimental histories'
+- !lcsh 'Massachusetts Artillery. 1st Regiment, 1861-1905'
+- GITenberg
+title: The First regiment Massachusetts heavy artillery, United States volunteers,
+  in the Spanish-American war of 1898
+url: http://www.gutenberg.org/ebooks/51510
